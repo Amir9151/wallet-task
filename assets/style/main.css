@@ -1,0 +1,31 @@
+.ap{
+  direction: rtl;
+}
+.theme{
+  background-color:rgb(243, 239, 239)!important;
+}
+.sub{
+  font-size: 14px;
+}
+.small-f{
+  font-size:10px;
+  color: gray;
+  font-weight: 900;
+}
+
+.border-tag{
+border: 1px solid #26c6da;
+color: #26c6da;
+}
+.curser{
+  cursor: pointer;
+}
+.border-btn{
+  border: 1px solid gray;
+  color: gray;
+}
+/* .placeholder{
+  font-size:60px;
+  color: gray;
+  font-weight: 900;
+} */
